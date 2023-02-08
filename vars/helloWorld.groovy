@@ -1,3 +1,3 @@
 def call(Map config = [:]) {
-    sh "hello world"
+    sh "echo hello world"
 }
